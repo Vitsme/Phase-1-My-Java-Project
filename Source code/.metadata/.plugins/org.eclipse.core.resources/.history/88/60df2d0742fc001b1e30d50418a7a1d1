@@ -1,0 +1,18 @@
+package com.LockedMe;
+
+import java.util.List;
+
+public class LockedMeProject 
+{
+	static final String folderpath="C:\\Users\\Vigne\\Documents\\SIMPLI LEARN\\COURSE 2 Implement OOPS using JAVA with Data Structures and Beyond\\Phase 1-My Project\\File Directory";
+	public static void main(String[] args) 
+	{
+		// TODO Auto-generated method stub
+		List<String> fileNames = FileManager.getAllFiles(folderpath);
+		
+		for(String f:fileNames)
+			System.out.println(f);
+
+	}
+
+}

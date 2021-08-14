@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+C:\Users\Vigne\Documents\SIMPLI LEARN\COURSE 2 Implement OOPS using JAVA with Data Structures and Beyond\Phase 1-My Project\Source code\.metadata\.plugins\org.eclipse.jdt.core
